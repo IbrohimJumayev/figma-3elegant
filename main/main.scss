@@ -1,0 +1,15 @@
+@import url(../nav-part/nav.css);
+@import url(../slider-section/sleder.css);
+
+html{
+    font-size: 10px;
+}
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+a{
+    cursor: pointer;
+}
